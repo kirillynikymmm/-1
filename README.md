@@ -1,4 +1,7 @@
-![Pizza Maker Robot](robot-pizza.png)
+git add robot-pizza.png README.md
+git commit -m "Add robot cover image to README"
+git push
+
 ии-72 робот пицца Морозов Кирилл
 Робот Пицца-Мейкер 
 
